@@ -1,0 +1,34 @@
+# Deployment Api Conversão Temperatura
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+  name: api-conversao-temperatura
+spec:
+  selector:
+    matchLabels:
+      app: api-conversao-temperatura
+  template:
+    metadata:
+      labels:
+        app: api-conversao-temperatura
+    spec:
+      containers:
+      - name: api-conversao-temperatura
+        image: phpimentel/api-conversao-temperatura:v1
+        ports:
+          - containerPort: 8080
+        
+---
+# Service da Api Conversão Temperatura
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-conversao-temperatura
+spec:
+  selector: 
+    app: api-conversao-temperatura
+  ports: 
+  - port: 80
+    targetPort: 8080
+    nodePort: 30000
+  type: NodePort

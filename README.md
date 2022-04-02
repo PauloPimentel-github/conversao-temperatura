@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido na imersão Iniciativa Kubernetes com foco na cult
 - Swagger
 - Docker
 - Kubernetes
+- Terraform
 - Cloud (Azure App Services)
 - Git + GitHub + GitHub Actions
 - CI/CD

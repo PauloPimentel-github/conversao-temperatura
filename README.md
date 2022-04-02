@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/PauloPimentel-github/pixel-python/blob/master/pixel-python-titulo.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/PauloPimentel-github/conversao-temperatura/blob/main/.github/template-tecnologias.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido na imersão Iniciativa Kubernetes com foco na cult
 - Docker
 - Kubernetes
 - Terraform
-- Cloud (Azure App Services)
+- Clouds (Azure, Digital Ocean)
 - Git + GitHub + GitHub Actions
 - CI/CD
 

@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/PauloPimentel-github/conversao-temperatura/blob/main/.github/template-tecnologias.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/PauloPimentel-github/conversao-temperatura/blob/main/.github/template-tecnologias.png" width="100%" height="600px">
 </p>
 
 ## 🚀 Tecnologias

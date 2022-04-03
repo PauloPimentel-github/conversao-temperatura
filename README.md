@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido na imersão Iniciativa Kubernetes com foco na cult
 
 ## 💻 Projeto
 
-A API implementada é bem simples, com a funcioanlidade de realizar conversões de fahrenheit para celsius e de celsius para fahrenheit.
+A API implementada é bem simples, com a funcionalidade de realizar conversões de fahrenheit para celsius e de celsius para fahrenheit.
 
 O foco do trabalho é aprender a trabalhar com Container, Docker, Kubernetes, CI/CD e Cloud.
 
